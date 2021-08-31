@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Ani Rodrigues 
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Precalculus
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Intro to Python
 
-- Course 4
+- Academic Success
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- gaming
 
-- Thing 2
+- movies
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
